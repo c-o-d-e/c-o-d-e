@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a entry level job in front-end development
+- 🔭 I’m currently looking for an entry level job in front-end development
 - 🌱 I’m currently learning React and working on React projects.
 - 👯 I’m looking to collaborate on any project in front-end.
 - 🤔 I’m looking for help with finding entry level job.

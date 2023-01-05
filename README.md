@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for an entry level job in front-end development
-- 🌱 I’m currently learning React and working on React projects.
-- 👯 I’m looking to collaborate on any project in front-end.
-- 🤔 I’m looking for help with finding entry level job.
-- :100: I recently completed Front-end Engineer certification from Codecademy.
+- 🔭 I build WordPress templates and figure out functionality for freelancing clients.
+- 🌱 I would like to work as a junior web/software developer under the guidance of a solid senior dev.
+- 👯 I’m open to collaborate with others on any project.
+- :100: I recently completed Full-Stack Engineer certification from Codecademy.
 
 ---
 
@@ -17,6 +16,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">

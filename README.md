@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I build WordPress templates and figure out functionality for freelancing clients.
-- 🌱 I would like to work as a junior web/software developer under the guidance of a solid senior dev.
+- 🌱 I would like to continue working as a software developer and learn AI technologies.
 - 👯 I’m open to collaborate with others on any project.
-- :100: I recently completed Full-Stack Engineer certification from Codecademy.
+- :100: I am a fully certified Full-Stack Engineer.
 
 ---
 

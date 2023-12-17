@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I build WordPress templates and figure out functionality for freelancing clients.
+- 🔭 I build web apps using the following tools.
 - 🌱 I would like to continue working as a software developer and learn AI technologies.
 - 👯 I’m open to collaborate with others on any project.
 - :100: I am a fully certified Full-Stack Engineer.
